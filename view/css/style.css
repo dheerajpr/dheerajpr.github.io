@@ -70,7 +70,7 @@ hr { margin: 40px 0px; border-color: #727878; opacity: 0.2; filter:alpha(opacity
 	overflow: hidden;
 	/*animation: type 4s steps(60, end);*/
 	animation:
-    typing 3.5s steps(40, end),
+    typing 4.5s steps(40, end),
     blink-caret .75s step-end infinite;
  }
 
